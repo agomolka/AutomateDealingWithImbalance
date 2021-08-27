@@ -1,4 +1,6 @@
 #  💰 BankLoanPrediction 
+[Hackathon 3.x - Predict customer worth for Happy Customer Bank](https://discuss.analyticsvidhya.com/t/hackathon-3-x-predict-customer-worth-for-happy-customer-bank/3802)
+<br>
 Work in progress...⏳ 
 # <br>
 ###  🪙 About Company
