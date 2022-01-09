@@ -5,23 +5,19 @@
 ## Application show the way how easy choose right approche for imbalanced dataset
 #### In this project, I will discuss the proposed methodology for solving the problem of out of balance in the target variable. The approaches that implement the solution at the data level are:
 #### ⬆️ oversampling:
-####      -  RandomOverSampler
-####      ⬆ SMOTE
-####      ⬆ ADASYN
-####      ⬆ BorderlineSMOTE
-####       ⬆ SVMSMOTE
-####      ⬆ SMOTENC
+
 #### ⬇️ undersampling
-####    ⬇ ClusterCentroids 
-####    ⬇ RandomUnderSampler
+
 1. First list item
-     - First nested list item
      - RandomOverSampler
      - SMOTE
      - ADASYN
      - BorderlineSMOTE
      - SVMSMOTE
      - SMOTENC
+1. undersampling
+     - ClusterCentroids 
+     - RandomUnderSampler
 # <br>
 # About Data Set
 ### 💰 BankLoanPrediction 
