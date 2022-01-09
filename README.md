@@ -1,11 +1,12 @@
 ### Work in progress...⏳ 
 #  Imbalanced DataSet
 ### The work touches on the problem of imbalanced classes in the data set. The program will be written using a sample unbalanced dataset. The goal is to make it easier for the user to choose balancing methods and prediction algorithms. The work will use the methods of balancing data sets, also will be used algorithms that create machine learning models. Everything will be programmed using Python and Jupyter Notebook IDE.
-# <br>
+
 ## Application show the way how easy choose right approche for imbalanced dataset
-### In this project, I will discuss the proposed methodology for solving the problem of out of balance in the target variable. The approaches that implement the solution at the data level are:
-### * oversampling
-### * undersampling
+#### In this project, I will discuss the proposed methodology for solving the problem of out of balance in the target variable. The approaches that implement the solution at the data level are:
+#### * oversampling
+#### * undersampling
+# <br>
 # About Data Set
 ### 💰 BankLoanPrediction 
 [Hackathon 3.x - Predict customer worth for Happy Customer Bank](https://discuss.analyticsvidhya.com/t/hackathon-3-x-predict-customer-worth-for-happy-customer-bank/3802)
