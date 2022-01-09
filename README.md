@@ -1,5 +1,5 @@
 ### Work in progress...⏳ 
-#  Imbalanced DataSet
+#  Imbalanced DataSet 🐘 🐁
 ### The work touches on the problem of imbalanced classes in the data set. The program will be written using a sample unbalanced dataset. The goal is to make it easier for the user to choose balancing methods and prediction algorithms. The work will use the methods of balancing data sets, also will be used algorithms that create machine learning models. Everything will be programmed using Python and Jupyter Notebook IDE.
 
 ## Application show the way how easy choose right approche for imbalanced dataset
