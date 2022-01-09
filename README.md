@@ -14,7 +14,7 @@
 #### ⬇️ undersampling
 ####    ⬇ ClusterCentroids 
 ####    ⬇ RandomUnderSampler
-⬆️. First list item
+1. First list item
      - First nested list item
      - RandomOverSampler
      - SMOTE
