@@ -14,8 +14,14 @@
 #### ⬇️ undersampling
 ####    ⬇ ClusterCentroids 
 ####    ⬇ RandomUnderSampler
-100. First list item
+⬆️. First list item
      - First nested list item
+     - RandomOverSampler
+     - SMOTE
+     - ADASYN
+     - BorderlineSMOTE
+     - SVMSMOTE
+     - SMOTENC
 # <br>
 # About Data Set
 ### 💰 BankLoanPrediction 
