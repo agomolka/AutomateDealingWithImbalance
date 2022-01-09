@@ -1,9 +1,11 @@
-#  💰 BankLoanPrediction 
-[Hackathon 3.x - Predict customer worth for Happy Customer Bank](https://discuss.analyticsvidhya.com/t/hackathon-3-x-predict-customer-worth-for-happy-customer-bank/3802)
-<br>
-Work in progress...⏳ 
+### Work in progress...⏳ 
+#  Imbalanced DataSet
+### The work touches on the problem of unbalanced classes in the data set. The program will be written using a sample unbalanced dataset. The goal is to make it easier for the user to choose balancing methods and prediction algorithms. The work will use the methods of balancing data sets, also will be used algorithms that create machine learning models. Everything will be programmed using Python and Jupyter Notebook IDE.
 # <br>
 # About Data Set
+### 💰 BankLoanPrediction 
+[Hackathon 3.x - Predict customer worth for Happy Customer Bank](https://discuss.analyticsvidhya.com/t/hackathon-3-x-predict-customer-worth-for-happy-customer-bank/3802)
+<br>
 ###  🪙 Company
 #### Happy Customer Bank is a mid-sized private bank which deals in all kinds of loans. They have presence across all major cities in India and focus on lending products. They have a digital arm which sources customers from the internet.
 ###  💳 Problem
