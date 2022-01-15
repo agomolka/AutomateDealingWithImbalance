@@ -11,9 +11,15 @@
      - BorderlineSMOTE
      - SVMSMOTE
      - SMOTENC
-1. ⬇️ undersampling
+2. ⬇️ undersampling
      - ClusterCentroids 
      - RandomUnderSampler
+     - NearMiss
+     - OneSidedSelection
+2. 🔀 hybridsampling
+     - SMOTEENN
+     - SMOTETomek
+
 # <br>
 # About Data Set
 ### 💰 BankLoanPrediction 
