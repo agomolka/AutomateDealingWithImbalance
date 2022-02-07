@@ -1,0 +1,13 @@
+﻿algo;X;y
+RandomOverSampler;X_res;y_res
+SMOTE;X_s;y_s
+ADASYN;X_a;y_a
+BorderlineSMOTE;X_bs;y_bs
+SVMSMOTE;X_svms;y_svms
+SMOTENC;X_smotenc;y_smotenc
+ClusterCentroids;X_cc;y_cc
+RandomUnderSampler;X_rus;y_rus
+NearMiss;X_nm;y_nm
+OneSidedSelection;X_oss;y_oss
+SMOTEENN;X_se;y_se
+SMOTETomek;X_stom;y_stom
